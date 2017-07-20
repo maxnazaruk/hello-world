@@ -25,6 +25,7 @@ public class secondary {
         if (targetRow == rowNumber) {
 
             onSameRow(a, number, targetRow, targetPlace);
+            System.out.println("!@#!@#");
         }
 
 
